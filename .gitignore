@@ -1,12 +1,33 @@
-# Unreal Engine
+# Ignore build, intermediate, and cache files
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Binaries/
 *.sln
 *.sdf
 *.opensdf
 *.VC.db
 *.VC.opendb
-DerivedDataCache/
-Intermediate/
-Saved/
-Binaries/
-Build/
+
+# Ignore system-specific and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
 *.log
+*.bak
+*.tmp
+
+# Ignore Unreal Engine auto-generated files
+*.uproject.sln
+*.psess
+*.pdb
+*.idb
+
+# Ignore user-specific settings
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Ignore Unreal Engine plugin temporary files
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
