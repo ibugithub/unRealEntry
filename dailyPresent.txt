@@ -17,3 +17,4 @@
 28/4/2025 => present
 29/4/2025 => present
 30/4/2025 => present
+01/1/2025 => present
