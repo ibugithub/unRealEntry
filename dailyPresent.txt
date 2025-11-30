@@ -42,3 +42,4 @@
 10/31/2025 => present
 11/02/2025 => present
 11/29/2025 => present
+11/30/2025 => present
