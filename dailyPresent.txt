@@ -67,3 +67,4 @@
 01/04/2026 => present
 06/04/2026 => present
 010/04/2026 => present
+12/10/2026 => present
