@@ -88,3 +88,4 @@
 01/06/2026 => present
 02/06/2026 => present
 15/06/2026 => present
+19/06/2026 => present
